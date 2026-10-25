@@ -1,2 +1,2 @@
-# Supersingular-curves-cryptography
-Implementation and analysis of post-quantum cryptography based on supersingular curves
+# Supersingular curves cryptography : SQISign
+Implementation and analysis of a post-quantum cryptographic primitive based on supersingular curves namely SQISign.
